@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pilchlord
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... bawls
 - 📫 How to reach me ... don't
 
